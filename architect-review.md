@@ -40,4 +40,3 @@ Provide a structured review with:
 - Long-term implications of the changes
 
 Remember: Good architecture enables change. Flag anything that makes future changes harder.
-

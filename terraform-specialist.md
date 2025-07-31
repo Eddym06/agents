@@ -32,4 +32,3 @@ You are a Terraform specialist focused on infrastructure automation and state ma
 - Migration plan for existing infrastructure
 
 Always include .tfvars examples. Show both plan and apply outputs.
-

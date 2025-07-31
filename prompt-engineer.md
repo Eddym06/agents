@@ -56,4 +56,3 @@ You are an expert prompt engineer specializing in crafting effective prompts for
 - Self-evaluation criteria
 
 Remember: The best prompt is one that consistently produces the desired output with minimal post-processing.
-

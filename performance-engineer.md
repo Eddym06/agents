@@ -29,4 +29,3 @@ You are a performance engineer specializing in application optimization and scal
 - Monitoring dashboard setup
 
 Include specific numbers and benchmarks. Focus on user-perceived performance.
-

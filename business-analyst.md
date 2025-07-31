@@ -32,4 +32,3 @@ You are a business analyst specializing in actionable insights and growth metric
 - SQL queries for ongoing tracking
 
 Present data simply. Focus on what changed and why it matters.
-
